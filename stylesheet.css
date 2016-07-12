@@ -1,0 +1,28 @@
+body  {
+    background-image: url("backg.png");
+    z-index: -1;
+    left: 30px;
+    <img src="dog.gif" width="200" height="200" alt="dog">
+}
+
+  li.li1 {
+    font-size: 14px;
+    color: purple;
+    text-shadow: 1px 1px 3px black;
+  }
+  li.li2 {
+    font-size: 54px;
+    background: -webkit-linear-gradient(#000000, #FFF, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+  li.li3 {
+    font-size: 34px;
+      color: green;
+      text-shadow: 1px 1px 2px black;
+    }
+    ul {
+        display: inline;
+        margin: 0;
+        padding: 0;
+    }
