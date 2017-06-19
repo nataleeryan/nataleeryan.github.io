@@ -56,8 +56,9 @@ h1 {
   padding-left: 175px;
   text-align: left;
   font-size: 14px;
+  line-height:15px;
   font-weight: lighter;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 @media only screen and (max-device-width 480px) {
@@ -112,7 +113,7 @@ h1 {
 
 #page3 {
   background-image: url(art.png);
-  background-size: 3400px;
+  background-size: 3600px;
   background-position: left;
   font-size: 15px;
   font-weight: 100;
@@ -120,7 +121,7 @@ h1 {
   padding-top: 80px;
   padding-left: 70px;
   padding-right: 70px;
-  height: 3300px;
+  height: 3500px;
   text-align: center;
 
 }
